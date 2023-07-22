@@ -1,0 +1,23 @@
+# Production 
+
+version: '3.9'
+services:
+  api:
+    container_name: food_api
+    build: .
+    restart: always
+    env_file: .venv
+    ports:
+      - "8000:8000"
+    command: >
+      sh -c " python manage.py migrate &&
+          gunicorn food_item.wsgi:application --bind 0.0.0.0:8000"
+    volumes:
+      - .:/app
+  
+  web:
+    build: ./frontend
+    ports:
+      - "3000:3000"
+    volumes:
+      - ./frontend:/frontend
