@@ -1,0 +1,8 @@
+establishmentId,locationId,establishmentName,openingHours,imageId
+1,1,PGPR,Mon - Sun 7AM - 8PM,https://uci.nus.edu.sg/oca/wp-content/uploads/sites/9/2018/05/PGP-canteen.jpg
+2,2,UTown Flavours,Mon - Sun 7.30AM - 8.30PM ,https://uci.nus.edu.sg/oca/wp-content/uploads/sites/9/2018/05/Flavours-Edited-1024x684.jpg
+3,2,UTown Fine Food,Mon - Sun 8AM - 8.30PM,https://uci.nus.edu.sg/oca/wp-content/uploads/sites/9/2018/05/Fine-Food-1-1024x684.jpg
+4,3,The Deck,"Mon - Fri 8AM - 6.30PM, Sat, Sun, PH Closed",https://uci.nus.edu.sg/oca/wp-content/uploads/sites/9/2018/05/deck.jpg
+5,4,The Terrace,"Mon - Fri 7AM - 7PM, Sat 7AM - 3PM, Sun, PH Closed",https://content.presspage.com/uploads/2580/1920_terrace-1.png?10000
+6,5,Techno Edge,"Mon - Fri 7AM - 8PM, Sat 7AM - 3PM, Sun, PH Closed",https://uci.nus.edu.sg/oca/wp-content/uploads/sites/9/2021/01/Techno-Edge-1024x684.jpg
+7,6,Frontier ,"Mon - Fri 7AM - 8PM, Sat 7AM - 3PM, Sun, PH Closed",https://uci.nus.edu.sg/oca/wp-content/uploads/sites/9/2018/05/Frontier-Canteen-1024x684.jpg

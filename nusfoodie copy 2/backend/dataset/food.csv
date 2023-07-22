@@ -1,0 +1,89 @@
+stallId,establishmentId,stallName,imageId
+1,1,Indian & Pizza,https://i0.wp.com/theoctant.org/wp-content/uploads/2021/08/Sapore-1024x684-1.jpg?resize=696%2C465&ssl=1
+2,1,Chinese Cuisine,https://c8.alamy.com/comp/EXFB84/chinese-food-stall-in-nankinmachi-chinatown-kobe-japan-EXFB84.jpg
+3,1,Fish Soup,https://uci.nus.edu.sg/oca/wp-content/uploads/sites/9/2021/10/20211004_162753-e1634293908336-1024x717.jpg
+4,1,Mala Hotpot,https://uci.nus.edu.sg/oca/wp-content/uploads/sites/9/2021/10/20211004_140825-e1634117767483-1024x836.jpg
+5,1,Korean,https://uci.nus.edu.sg/oca/wp-content/uploads/sites/9/2018/05/Hwangs-UTown-1024x684.jpg
+6,1,Mini Wok,https://uci.nus.edu.sg/oca/wp-content/uploads/sites/9/2021/10/PGP-nonaircon_mini-wok-e1634206996165.jpeg
+7,1,Mixed Rice,https://uci.nus.edu.sg/oca/wp-content/uploads/sites/9/2021/10/20211004_162815-e1634293937533-1024x762.jpg
+8,1,Chicken Rice,https://uci.nus.edu.sg/oca/wp-content/uploads/sites/9/2021/10/20211004_173247-e1634292608851-1024x911.jpg
+9,1,Drinks & Snacks,https://uci.nus.edu.sg/oca/wp-content/uploads/sites/9/2021/10/20211004_171056-e1634105535498-1024x712.jpg
+10,2,Mixed Rice,https://uci.nus.edu.sg/oca/wp-content/uploads/sites/9/2021/10/20211004_134740-e1634207285652-1024x792.jpg
+11,2,Noodles,https://uci.nus.edu.sg/oca/wp-content/uploads/sites/9/2021/10/20211004_173559-e1634279127278-1024x1010.jpg
+12,2,Mala Hotpot,https://uci.nus.edu.sg/oca/wp-content/uploads/sites/9/2021/10/20211004_140825-e1634117767483-1024x836.jpg
+13,2,Taiwanese Cuisine,https://uci.nus.edu.sg/oca/wp-content/uploads/sites/9/2018/09/Taiwan-Ichiban-1024x684.jpg
+14,2,Japanese Cuisine,https://uci.nus.edu.sg/oca/wp-content/uploads/sites/9/2021/10/20211004_143146-e1634110004652-1024x778.jpg
+15,2,Chef's Wok,https://uci.nus.edu.sg/oca/wp-content/uploads/sites/9/2021/10/20211004_173339-e1634282543579-1024x939.jpg
+16,2,Roasted Delights,https://www.asiaone.com/sites/default/files/inline-images/270622_Hua%20Zai%20Roasted%20Duck%20Tampines.jpg
+17,2,Yong Tau Foo,https://uci.nus.edu.sg/oca/wp-content/uploads/sites/9/2021/10/WhatsApp-Image-2021-10-14-at-5.03.47-PM-4-e1634281770690.jpeg
+18,2,TenderFresh,https://farm5.staticflickr.com/4531/24058706147_9e067e42a8_z.jpg
+19,2,Drinks & Fruits,https://uci.nus.edu.sg/oca/wp-content/uploads/sites/9/2021/10/20211004_171056-e1634105535498-1024x712.jpg
+20,3,Japanese & Korean,https://uci.nus.edu.sg/oca/wp-content/uploads/sites/9/2018/05/Hwangs-UTown-1024x684.jpg
+21,3,Wang Dynasty,https://live.staticflickr.com/65535/52125957126_fc0fdd2725_o.jpg
+22,3,Five Grains Beehoon,https://www.shicheng.news/images/image/1702/17027722.webp?1659880848
+23,3,Mala Hotpot,https://uci.nus.edu.sg/oca/wp-content/uploads/sites/9/2021/10/20211004_140825-e1634117767483-1024x836.jpg
+24,3,Dim Sum,https://eastudy.sg/wordpress/wp-content/uploads/2017/06/640850.jpg
+25,3,Gold Grill,https://lh3.googleusercontent.com/p/AF1QipOvMEZODPWBb1vKD9DNCiBi5sD3RyE4w6_9VzET=s1360-w1360-h1020
+26,3,Taiwan Ichiban,https://uci.nus.edu.sg/oca/wp-content/uploads/sites/9/2018/09/Taiwan-Ichiban-1024x684.jpg
+27,3,Indian Cuisine,https://fastly.4sqi.net/img/general/600x600/55468582_zH8z3XB72vrIbFDy9jU60Mlu2giEBby5Q81lVPwnLOM.jpg
+28,3,Mixed Vegetable Rice,https://uci.nus.edu.sg/oca/wp-content/uploads/sites/9/2021/10/20211004_153017-e1634032917265-1024x737.jpg
+29,3,Mixed Greens,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0PeTQVzznyAJSYxREjzCjaJPagDGVgJrXkg&usqp=CAU
+30,3,Drinks Store,https://uci.nus.edu.sg/oca/wp-content/uploads/sites/9/2021/10/20211004_171056-e1634105535498-1024x712.jpg
+31,3,HK Gourmet,https://uci.nus.edu.sg/oca/wp-content/uploads/sites/9/2021/08/Chop-Cjop.jpg
+32,4,Yong Tau Foo & Laksa,https://uci.nus.edu.sg/oca/wp-content/uploads/sites/9/2021/10/WhatsApp-Image-2021-10-14-at-5.14.41-PM-8-e1634203936882.jpeg
+33,4,Chinese Cooked Food,https://uci.nus.edu.sg/oca/wp-content/uploads/sites/9/2021/10/WhatsApp-Image-2021-10-14-at-5.14.41-PM-7-e1634203322534.jpeg
+34,4,Japanese,https://uci.nus.edu.sg/oca/wp-content/uploads/sites/9/2021/10/20211004_143146-e1634110004652-1024x778.jpg
+35,4,Fried Kway Teow,https://thesmartlocal.com/images/easyblog_articles/2258/b2ap3_medium_Best-Char-Kway-Teow-29.jpg
+36,4,Thai,https://uci.nus.edu.sg/oca/wp-content/uploads/sites/9/2021/10/20211004_173659-e1634281565303-1024x984.jpg
+37,4,Western,https://uci.nus.edu.sg/oca/wp-content/uploads/sites/9/2021/10/20211004_153213-e1634090925194-1024x765.jpg
+38,4,Noodle,https://uci.nus.edu.sg/oca/wp-content/uploads/sites/9/2021/10/WhatsApp-Image-2021-10-14-at-5.14.41-PM-3-e1634203687267.jpeg
+39,4,Roasted Delights,https://uci.nus.edu.sg/oca/wp-content/uploads/sites/9/2018/05/The-Coffee-Roaster-1-1024x684.jpg
+40,4,Vegetarian,https://uci.nus.edu.sg/oca/wp-content/uploads/sites/9/2021/10/20211004_142922-e1634111279480-1024x778.jpg
+41,4,Indian,https://www.tripsavvy.com/thmb/7PowEbv4JJ3m3uc1XZ6Lp9Puqiw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/286808815_23bb97625d_o-59627ebd3df78cdc68bac91e.jpg
+42,4,Fresh Fruits & Juices,https://uci.nus.edu.sg/oca/wp-content/uploads/sites/9/2021/10/WhatsApp-Image-2021-10-14-at-5.14.41-PM-2-e1634204300248.jpeg
+43,4,Bubble Tea,https://uci.nus.edu.sg/oca/wp-content/uploads/sites/9/2021/10/20211004_173318-1024x768.jpg
+44,4,Liang Ban Gong Fu,https://uci.nus.edu.sg/oca/wp-content/uploads/sites/9/2018/05/liang-1024x684.jpg
+45,4,Pasta Express,https://uci.nus.edu.sg/oca/wp-content/uploads/sites/9/2018/09/Pasta-Express-Science-768x513.jpg
+46,5,Ban Mian,https://studyabroad642.files.wordpress.com/2017/11/img_7048.jpg?w=768&h=1024
+47,5,Japanese Ramen,https://c8.alamy.com/comp/K73WKM/traditional-local-japanese-ramen-shop-in-shinjuku-japan-K73WKM.jpg
+48,5,Indian Fusion,https://images.happycow.net/venues/1024/21/84/hcmp218481_1009658.jpeg
+49,5,Seafood Pao Fan,https://eatbook.sg/wp-content/uploads/2021/02/Muns-Pao-Fan-storefront.jpg
+50,5,Mala Pot,https://uci.nus.edu.sg/oca/wp-content/uploads/sites/9/2021/10/20211004_140825-e1634117767483-1024x836.jpg
+51,5,Vegetarian,https://uci.nus.edu.sg/oca/wp-content/uploads/sites/9/2021/10/20211004_142922-e1634111279480-1024x778.jpg
+52,5,Mixed Veg Rice,https://uci.nus.edu.sg/oca/wp-content/uploads/sites/9/2021/10/20211004_153017-e1634032917265-1024x737.jpg
+53,5,Fried Rice,https://s3-media0.fl.yelpcdn.com/bphoto/2mGJtdStIGUS65kLqTFq-w/348s.jpg
+54,5,Curry Rice Set,https://sethlui.com/wp-content/uploads/2023/05/article-images-2.jpg
+55,5,Take n Go,https://uci.nus.edu.sg/oca/wp-content/uploads/sites/9/2021/08/Pick-and-Go.jpg
+56,5,Breakfast,https://uci.nus.edu.sg/oca/wp-content/uploads/sites/9/2018/05/Arise-E4-1024x684.jpg
+57,5,Desserts & Snacks,https://uci.nus.edu.sg/oca/wp-content/uploads/sites/9/2019/03/E2-Kitchen-1-1024x768.jpeg
+58,5,Beverages,https://uci.nus.edu.sg/oca/wp-content/uploads/sites/9/2018/05/Cafe-Delight-1024x684.jpg
+59,5,Western,https://uci.nus.edu.sg/oca/wp-content/uploads/sites/9/2021/10/20211004_153213-e1634090925194-1024x765.jpg
+60,6,Nasi Padang,https://uci.nus.edu.sg/oca/wp-content/uploads/sites/9/2021/10/20211004_171208-e1634096523106-1024x685.jpg
+61,6,Western Food,https://uci.nus.edu.sg/oca/wp-content/uploads/sites/9/2021/10/20211004_153213-e1634090925194-1024x765.jpg
+62,6,Vegetarian,https://uci.nus.edu.sg/oca/wp-content/uploads/sites/9/2021/10/20211004_171202-e1634096830301-1024x685.jpg
+63,6,Mala Xiang Guo,https://uci.nus.edu.sg/oca/wp-content/uploads/sites/9/2021/10/20211004_171118-e1634097514205-1024x717.jpg
+64,6,Indian,https://uci.nus.edu.sg/oca/wp-content/uploads/sites/9/2021/10/20211004_162741-e1634293789425-1024x642.jpg
+65,6,Mixed Rice,https://uci.nus.edu.sg/oca/wp-content/uploads/sites/9/2021/10/20211004_171041-e1634098397255-1024x696.jpg
+66,6,Drinks & Snacks,https://uci.nus.edu.sg/oca/wp-content/uploads/sites/9/2021/10/20211004_171056-e1634105535498-1024x712.jpg
+67,6,Fruit & Juice,https://uci.nus.edu.sg/oca/wp-content/uploads/sites/9/2021/10/WhatsApp-Image-2021-10-14-at-5.14.41-PM-2-e1634204300248.jpeg
+68,6,Taiwan,https://uci.nus.edu.sg/oca/wp-content/uploads/sites/9/2018/09/Taiwan-Ichiban-1024x684.jpg
+69,6,Ramen & Soup,https://uci.nus.edu.sg/oca/wp-content/uploads/sites/9/2021/10/20211004_171328-e1634106532936-1024x732.jpg
+70,6,Noodles,https://uci.nus.edu.sg/oca/wp-content/uploads/sites/9/2021/10/WhatsApp-Image-2021-10-14-at-5.14.41-PM-3-e1634203687267.jpeg
+71,6,Chicken Rice,https://uci.nus.edu.sg/oca/wp-content/uploads/sites/9/2021/10/20211004_173247-e1634292608851-1024x911.jpg
+72,6,Bistro Box,https://uci.nus.edu.sg/oca/wp-content/uploads/sites/9/2021/02/yangyew-6-5-1024x684.jpg
+73,7,Vegetarian,https://uci.nus.edu.sg/oca/wp-content/uploads/sites/9/2021/10/20211004_142922-e1634111279480-1024x778.jpg
+74,7,Korean,https://uci.nus.edu.sg/oca/wp-content/uploads/sites/9/2018/05/Hwangs-UTown-1024x684.jpg
+75,7,Chinese,https://keropokman.com/wp-content/uploads/2017/04/03167-paikumian.jpg
+76,7,Indian,https://uci.nus.edu.sg/oca/wp-content/uploads/sites/9/2021/10/20211004_162741-e1634293789425-1024x642.jpg
+77,7,Noodles,https://uci.nus.edu.sg/oca/wp-content/uploads/sites/9/2021/10/WhatsApp-Image-2021-10-14-at-5.14.41-PM-3-e1634203687267.jpeg
+78,7,Japanese,https://uci.nus.edu.sg/oca/wp-content/uploads/sites/9/2021/10/20211004_143146-e1634110004652-1024x778.jpg
+79,7,Chef's Wok,https://uci.nus.edu.sg/oca/wp-content/uploads/sites/9/2021/10/20211004_173339-e1634282543579-1024x939.jpg
+80,7,Muslim,https://uci.nus.edu.sg/oca/wp-content/uploads/sites/9/2021/10/20211004_142954-e1634111442557-1024x798.jpg
+81,7,Mala Hotpot,https://uci.nus.edu.sg/oca/wp-content/uploads/sites/9/2021/10/20211004_140825-e1634117767483-1024x836.jpg
+82,7,Western,https://uci.nus.edu.sg/oca/wp-content/uploads/sites/9/2021/10/20211004_153213-e1634090925194-1024x765.jpg
+83,7,Chicken Rice,https://1.bp.blogspot.com/-fLkGg3_Skv4/V_nHmax1tAI/AAAAAAABPQQ/1-aiZMLw90o1iLuB4rIuFHCL4APfUi-bgCLcB/s1600/01%2BSGE_8778%2BMing%2BKee%2BChicken%2BRice%2B%2528%25E7%2599%25BD%25E6%25B2%2599%25E6%25B5%25AE%25E6%2598%258E%25E8%25AE%25B0%25E9%25B8%25A1%25E9%25A5%25AD%2529%2B-%2BDipped%2Bin%2BIce%2521%2B%2540%2BBishan%2BKim%2BSan%2BLeng%2BFood%2BCentre%2B%255BSingapore%255D.JPG
+84,7,Drinks & Snacks,https://uci.nus.edu.sg/oca/wp-content/uploads/sites/9/2021/10/20211004_171056-e1634105535498-1024x712.jpg
+85,7,Uncle Penyet Fusion,https://uci.nus.edu.sg/oca/wp-content/uploads/sites/9/2018/09/Uncle-Penyet-Science-1024x684.jpg
+86,7,Li Ji Coffee House,https://uci.nus.edu.sg/oca/wp-content/uploads/sites/9/2018/09/Li-Ji-1024x684.jpg
+87,7,Pasta Express,https://uci.nus.edu.sg/oca/wp-content/uploads/sites/9/2018/09/Pasta-Express-Science-768x513.jpg
+88,7,Taiwan Ichiban,https://uci.nus.edu.sg/oca/wp-content/uploads/sites/9/2018/09/Taiwan-Ichiban-1024x684.jpg
