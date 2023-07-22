@@ -1,0 +1,93 @@
+.card-title {
+    margin-bottom: 1rem;
+}
+
+h5.card-title {
+    font-weight: 500 !important;
+    font-size: 14px;
+}
+
+.card-subtitle {
+    text-align: left;
+    color: #4F4F4F;
+    margin-top: 0.75rem;
+    margin-bottom: 10px;
+    font-size: 12px;
+}
+
+.card-text {
+    text-align: left;
+    margin-top: 11px;
+    color: black;
+}
+
+p.card-subtitle {
+    margin-top: 0.75rem;
+    font-size: 12px;
+}
+
+.card__actions {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 16px;
+}
+
+.card-img-top {
+    width: 100%;
+    height: 10vw;
+    object-fit: cover;
+}
+
+.form-check {
+    border-color: #1A2E5A;
+}
+
+.career-img {
+    object-fit: fill;
+    width: 100%;
+    height: auto;
+}
+
+.overlay {
+    z-index: 1;
+    background: white;
+    box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    padding-left: 2em;
+    padding-top: 1em;
+    margin-top: 3em;
+}
+
+@media only screen and (min-width: 1200px) {
+    .css-1oqqzyl-MuiContainer-root {
+        max-width: initial;
+    }
+}
+
+@media only screen and (max-width: 600px) {
+
+    #ChangePasswordLogo {
+        max-width: 90%;
+    }
+}
+
+span .MuiFormControlLabel-label {
+    font-size: 11px;
+}
+
+.MuiTypography-root .MuiTypography-body1 .MuiFormControlLabel-label .css-ahj2mt-MuiTypography-root {
+    font-size: 11px;
+}
+
+.transform-container{
+    transform: scale(95%);
+}
+
+.css-ahj2mt-MuiTypography-root{
+    font-size: 10px;
+    font-family: Open Sans;
+}
